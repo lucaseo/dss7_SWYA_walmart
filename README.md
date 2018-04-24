@@ -9,15 +9,15 @@
 # [ Overview ]
 
 ### (1) Team : SWYA
-> - 김선웅
-> - 서원영
-> - 백윤아
+> - [Kim SW](https://github.com/novdov)
+> - [Seo WY](https://github.com/lucaseo)
+> - [Baek YA](https://github.com/yunah0515)
 
 ### (2) Dataset :
 > #### Walmart Shopping Records
 
 ### (3) Objective :
-> #### 각 고객의 구매정보에 따른 구매 건의 Type을 분류
+> #### Trip Type Classification of each customers based on thier shopping data
 
 <br>
 
@@ -25,7 +25,7 @@
 
 > #### train : 647054 rows, 7 columns
 > #### test : 653646 rows, 6 columns
-> - 타겟값 TripType을 제외한 동일한 특성의 컬럼
+> - identical features except the target value (TripType)
 
 | Index | Feature               | Feature Description                                  | Unique Value |
 |-------|-----------------------|----------------------------------------------|--------|
