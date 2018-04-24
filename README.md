@@ -4,7 +4,9 @@
 
 ![](https://github.com/yunah0515/dss7_SWYA_walmart/blob/master/image/walmart_triptypes640.png?raw=true)
 
+
 #### [Click for Project Report](https://github.com/lucaseo/kaggle-walmart-triptype-classification/blob/master/project-report.ipynb)
+
 
 # [ Overview ]
 
