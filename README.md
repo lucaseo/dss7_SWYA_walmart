@@ -1,4 +1,4 @@
-##### Fast Campus Data Science School 7th Team Project 2 Classification
+##### Fastcampus Data Science School Team Project : Classification
 # [Walmart Recruiting: Trip Type Classification](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification#description)
 
 
